@@ -1,4 +1,4 @@
-# sudoku_solver
+# Sudoku_Solver
 
 This project uses Tk interface for providing Graphical User Interface.
 The Sudoku is solved using recursion and backtracking algorithm.
